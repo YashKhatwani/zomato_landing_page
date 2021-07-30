@@ -232,6 +232,7 @@ section{
     border: 1px solid #720c4f;
     border-radius: 7px;
     font-size: 14px;
+    font-weight: 600;
   }
 
   .quote__container {
